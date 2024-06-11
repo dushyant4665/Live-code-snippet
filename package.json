@@ -1,0 +1,11 @@
+{
+  "name": "html-css-js-snippet-live-server",
+  "version": "1.0.0",
+  "description": "here you run HTML CSS JavaScript code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dushyant khandelwal",
+  "license": "ISC"
+}
